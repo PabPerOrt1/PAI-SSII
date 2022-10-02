@@ -1,2 +1,0 @@
-['El fichero Prueba0.txt ha sido modificado']
-['El fichero Prueba0.txt ha sido modificado']
